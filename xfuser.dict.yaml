@@ -1,0 +1,14 @@
+# Rime$dictionary 
+# encoding:$utf-8 
+# 
+ 
+--- 
+name: xfuser 
+version: "20220304" 
+sort: by_weight 
+columns: 
+  - text 
+  - code 
+... 
+
+比较  bj'
